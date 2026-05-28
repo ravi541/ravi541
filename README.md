@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ravi Teja 👋
 
-<!--
-**ravi541/ravi541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Engineer
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Machine Learning
+- NLP
+- GenAI
+- Agentic AI
+- AWS
+- Java
+- Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- NLP
+- LLMs
+- Agentic AI
+- AI Engineering
+
